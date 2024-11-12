@@ -1,2 +1,2 @@
 # Recruitment-Tracker
-This recruitment dashboard aimed to provide a comprehensive view of  recruitment process, offering insights into various key metrics that help track the effectiveness and efficiency of your hiring efforts
+This recruitment dashboard aimed to provide a comprehensive view of  recruitment process, offering insights into various key metrics that help track the effectiveness and efficiency of your hiring efforts. It is capturing the summary of each page/tab calculating various KPIs and provides actionable insights into our hiring process, enabling to make data-driven decisions and optimize our recruitment strategy with a focus on reducing the average time-to-hire and improving the quality of hire.​
